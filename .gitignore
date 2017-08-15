@@ -1,0 +1,6 @@
+# .NET build objects
+bin/
+obj/
+
+# VisualStudio code files
+.vscode/
